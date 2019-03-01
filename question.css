@@ -1,1 +1,23 @@
-.qcont{padding-top: 200px;}
+body{font-family: "M PLUS Rounded 1c";}
+
+.colo{padding-top: 150px;}
+
+.qcont{background-color: rgba(255, 255, 255, 0.54);
+        width: 80%;
+        margin: auto;
+        padding:10%;
+
+        margin-bottom: 40px;
+        color: #242424;}
+.qcont h3{font-size: 22px;}
+.qcont a{text-decoration: none;}
+.qcont a:link{color: orange}
+.qcont a:visited{color: orangered;}
+
+.qbox{margin-left: 20px;
+        line-height: 1;
+        padding-bottom: 5px;
+        font-size: 22px;}
+
+.qapp{text-align: center;font-size:20px;font-weight: bold;color: orange}
+.ql{width: 300px;}
