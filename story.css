@@ -23,7 +23,7 @@ h3{font-family: "M PLUS Rounded 1c";
     margin-left: 50%;
     margin-top: -300px;
     height: 250px;
-    overflow: hidden;}
+    overflow: hidden;filter: drop-shadow(10px 10px 10px rgba(0,0,0,0.4));}
 
 
 /*ボックスCSS*/
