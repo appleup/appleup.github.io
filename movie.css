@@ -1,3 +1,7 @@
-.mcont{padding-top: 200px;
+.m-cont{padding-top: 150px;}
+.mcont{color: white;
         text-align: center;
         padding-bottom: 100px;}
+body{text-align: center;
+    font-family:  "M PLUS Rounded 1c";
+    color: orange;}

@@ -1,22 +1,23 @@
+body{overflow: hidden}
+
 /*基本コンテナ*/
-.cont{position: relative;
-        width: 100%;
-        height: 700px;
+.cont{width: 100%;
+        height: 100%;
         overflow: hidden}
 
 apple{width: 350px;}
 
 .apple{position: absolute;
-        bottom: 0;margin-left: 60%;
+        bottom: 0%;margin-left: 60%;
         margin-bottom: 60px;overflow: hidden;}
 
 
 /*吹き出しCSS*/
-.balloon2-right {left: 20%;
- 	position: relative;
+.balloon2-right {margin-left: 30%;
+    bottom: 20%;
+ 	position: absolute;
 	display: inline-block;
-    margin-top: 300px;
-    margin-right: 0%;
+    margin-right: 5%;
 	padding: 27px 47px;
 	min-width: 120px;
  	max-width: 100%;
