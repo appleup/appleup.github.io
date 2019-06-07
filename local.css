@@ -2,6 +2,8 @@
 body{margin: 0 auto;
         background:url(img/456931.jpg) center center / cover no-repeat fixed;}
 
+a {text-decoration: none;} 
+
 /*ヘッダー開始*/
 .cont{overflow: hidden;}
 .header{background-color: #552f2f;
